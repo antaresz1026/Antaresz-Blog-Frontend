@@ -1,0 +1,9 @@
+[submodule "blog-pc"]
+	path = blog-pc
+	url = https://github.com/antaresz1026/Antaresz-Blog-Frontend-PC
+[submodule "blog-web"]
+	path = blog-web
+	url = https://github.com/antaresz1026/Antaresz-Blog-Frontend-Web
+[submodule "blog-mobile"]
+	path = blog-mobile
+	url = https://github.com/antaresz1026/Antaresz-Blog-Frontend-Mobile
