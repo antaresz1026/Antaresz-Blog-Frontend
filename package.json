@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "chromatic": "npx chromatic --project-token=chpt_8a0ec3b4643c744"
+    "chromatic": "npx chromatic --project-token=chpt_8a0ec3b4643c744",
+    "commit": "sh ../scripts/commit.sh"
   },
   "keywords": [],
   "author": "",
